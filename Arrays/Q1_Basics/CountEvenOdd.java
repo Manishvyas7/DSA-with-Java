@@ -14,7 +14,6 @@ public class CountEvenOdd {
                 evenCount++;
             }
         }
-
         System.out.print("\nOdd numbers: ");
         for (int i = 0; i < f.length; i++) {
             if (f[i] % 2 != 0) {
@@ -22,7 +21,6 @@ public class CountEvenOdd {
                 oddCount++;
             }
         }
-
         System.out.println("\nTotal even numbers: " + evenCount);
         System.out.println("Total odd numbers: " + oddCount);
     }
