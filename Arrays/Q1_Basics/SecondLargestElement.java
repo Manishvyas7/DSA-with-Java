@@ -13,7 +13,7 @@ public class SecondLargestElement {
             arr[i] = sc.nextInt();
         }
         for (int i = 0; i < arr.length; i++){
-            
+
         }
     }
 }
